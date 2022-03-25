@@ -1,0 +1,255 @@
+.corpo {
+    background-image: url("../img/Madoka-2.jpg");
+    background-position: center;
+    background-size:cover;
+}
+.Titulo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+header {
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.persona {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    align-items: center;
+}
+main {
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    height: 10em;
+    margin-top: 100px;
+}
+.mad, .hom, .say {
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.ost {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    display: block;
+    margin-top: 30px;
+}
+
+#q, #q {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+   background-image: url("/img/6d05450c862e091b81f39eced59940e8.jpg");
+   background-size: 100%;
+   color: #ff70a6;
+
+}
+#primeira {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    background-image: url("/img/6d05450c862e091b81f39eced59940e8.jpg");
+   background-size: 50%;
+   color: #ff70a6;
+}
+#segunda{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+   background-image: url("/img/Adesivos-tempor-rios-de-tatuagem-puela-magi-madoka-logo-dos-desenhos-animados-por-anime-prova-d.jpg");
+   background-size: 50%;
+   color: #ff70a6;
+
+}
+.terceira{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+   background-image: url("/img/il_fullxfull.2014490787_6uj9.webp");
+   background-size: 80%;
+   color: #ff70a6;
+}
+#first {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    color: #ff70a6;
+}
+
+#quarta {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    width: 1195px;
+    height: 592px;
+    background-image: url("/img/puella-magi-madoka-magica-ganha-jogo-para-celulares_e9mr.jpg");
+    background-size: 100%;
+    color: #28074a;
+}
+
+#quinta {
+margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    background-image: url("/img/9abe8455426b1967b48a0cc395892d46.jpg");
+    color: #d6008f;
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    width: 1195px;
+    height: 592px;
+}
+.qui{
+    margin-top: 100px;
+    margin-left: 91px;
+}
+.lista {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#victory {
+    background-image: url(/img/image_processing20200509-30357-1ndo5eg.gif);
+    background-position: center;
+    margin-top: 410px;
+    background-size: 64em;
+   }
+.menu {
+    width: 176px;
+    margin-left: 543px;
+    border-radius: 61px;
+}
+
+.fracasso {
+    background-image: url(/img/200.gif);
+    background-position: center;
+    margin-top: 410px;
+    background-size: 80em;
+    width: 176px;
+    margin-left: 5px;
+    border-radius: 61px;
+}
+.principal{
+    background-image: url(/img/harbor-light-story-madoka-utena.jpg);
+    font-family: 'Pacifico', cursive;
+    color:aliceblue;
+   
+}
+
+.apresentação, .paragrafo{ 
+    height: 238px;
+    width: 388px;
+
+}
+
+.paragrafo {
+color: #28074a;
+background-color: #ff70a6;
+opacity: 0.8; 
+text-align: center;
+font-family: 'Pacifico', cursive;
+}
+
+.yes, .no {
+    margin-left: 150px;
+    padding-left: 54px;
+    padding-right: 48px;
+}
+.aceita {
+    padding-left: 138px;
+    background-color: #ff70a6;
+opacity: 0.8; 
+}
+
+#stageOne {
+    background-image: radial-gradient(circle at 50% -20.71%, #ff65b3 0, #ff59c0 10%, 
+    #ff4ecd 20%, #ff45d9 30%, #ff3fe6 40%, #f23cf2 50%, #d33ffe 60%, #ad46ff 70%, 
+    #7b4fff 80%, #0058ff 90%, #0060ff 100%);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    width: 1195px;
+    height: 592px;
+    font-family: 'Pacifico', cursive;
+}
+
+#stagetwo{
+    background-image: radial-gradient(circle at 50% -20.71%, #fe8f62 0, #ff8564 8.33%, #ff7967 16.67%, 
+    #ff6c6b 25%, #fd5e6e 33.33%, #f84e73 41.67%, #f23c78 50%, #ea287e 58.33%, #e10e86 66.67%,
+     #d6008f 75%, #ca0098 83.33%, #bb00a3 91.67%, #aa00ae 100%);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    width: 1195px;
+    height: 592px;
+    font-family: 'Pacifico', cursive;
+}
+
+.stagethree {
+    background-image: radial-gradient(circle at 50% -20.71%, #fe8f62 0, #ff8564 8.33%, #ff7967 16.67%, 
+    #ff6c6b 25%, #fd5e6e 33.33%, #f84e73 41.67%, #f23c78 50%, #ea287e 58.33%, #e10e86 66.67%,
+     #d6008f 75%, #ca0098 83.33%, #bb00a3 91.67%, #aa00ae 100%);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    width: 1195px;
+    height: 592px;
+    font-family: 'Pacifico', cursive;
+}
+
+
+#faseone, #fasedois, #fase3 {
+    background-image: linear-gradient(180deg, #ff8ee6 0, #f17ee0 25%,
+     #d86cd8 50%, #be5bd0 75%, #a44fcb 100%);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    width: 1195px;
+    height: 592px;
+    font-family: 'Pacifico', cursive;
+}
+#fase1, #fase2, #tre, #first, #second, #terceiro, .quarta, .quinta, #quinta, #hum, #to, #tre {
+    margin-top: 88px;
+    margin-left: 75px;
+    border-radius: 39px;
+}
